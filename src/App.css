@@ -1,0 +1,33 @@
+.app{
+  background-color: antiquewhite;
+  height: 100Vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  flex-direction: column;
+}
+.count{
+  border: 2px solid black;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: aquamarine;
+}
+.btn{
+  background-color: crimson;
+  color: white;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.black{
+  background-color: black;
+  height: 100Vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  flex-direction: column;
+}
